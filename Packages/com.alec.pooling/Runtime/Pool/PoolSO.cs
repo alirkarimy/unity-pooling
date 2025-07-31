@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
-using UOP1.Factory;
+using Alec.Factory;
 
-namespace UOP1.Pool
+namespace Alec.Pool
 {
     /// <summary>
     /// A generic pool that generates members of type T on-demand via a factory.

@@ -1,6 +1,11 @@
-﻿using UnityEngine;
+﻿
 
-namespace UOP1.Factory
+
+
+
+using UnityEngine;
+
+namespace Alec.Factory
 {
     /// <summary>
     /// Implements the IFactory interface for non-abstract types.

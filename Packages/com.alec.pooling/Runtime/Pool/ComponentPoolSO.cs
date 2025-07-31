@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UOP1.Pool
+namespace Alec.Pool
 {
     /// <summary>
     /// Implements a Pool for Component types.

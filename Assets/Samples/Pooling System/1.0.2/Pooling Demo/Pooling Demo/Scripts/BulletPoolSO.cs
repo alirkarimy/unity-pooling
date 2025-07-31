@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
-using UOP1.Factory;
-using UOP1.Pool;
+using Alec.Factory;
+using Alec.Pool;
 
 [CreateAssetMenu(fileName = "NewBulletPool", menuName = "Pool/Bullet Pool")]
 public class BulletPoolSO : PoolSO<GameObject>

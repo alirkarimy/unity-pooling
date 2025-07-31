@@ -1,4 +1,4 @@
-﻿namespace UOP1.Factory
+﻿namespace Alec.Factory
 {
     /// <summary>
     /// Represents a factory.
