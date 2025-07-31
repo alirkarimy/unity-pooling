@@ -1,0 +1,24 @@
+{
+  "name": "com.alec.pooling",
+  "version": "1.0.2",
+  "displayName": "Pooling System",
+  "description": "A system for instantiate and pool objects in Unity projects",
+  "unity": "6000.0",
+  "keywords": [
+    "factory",
+    "pool"
+  ],
+  "author": {
+    "name": "Alec Karimi",
+    "email": "ali.r.karimy@gmail.com",
+    "url": "https://yourwebsite.com"
+  },
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Pooling Demo",
+      "description": "Example scene",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
