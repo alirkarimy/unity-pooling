@@ -1,6 +1,6 @@
 {
   "name": "com.alec.pooling",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Pooling System",
   "description": "A system for instantiate and pool objects in Unity projects",
   "unity": "6000.0",
