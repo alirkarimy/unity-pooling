@@ -58,7 +58,7 @@ namespace Alec.Pool
         protected override T Create()
         {
             T newMember = base.Create();
-            newMember.transform.SetParent(PoolRoot.transform);
+            newMember.transform.SetParent(PoolRoot.transform,false);
             newMember.gameObject.SetActive(false);
             return newMember;
         }
